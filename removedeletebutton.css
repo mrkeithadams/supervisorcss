@@ -1,13 +1,3 @@
-.fa {background-color: dimgrey;}
-.fa.fa-trash-o.delete-button.tt.tt-allow-content {background-color: dimgrey;}
-.delete-button {display: none;}
-
-
-i.delete-button {
-    background-color: blue
+i.fa.fa-trash-o.delete-button.tt.tt-allow-content {
+    display: none;
 }
-
-
-button#delete-button { 
-    display: none; 
-} 
