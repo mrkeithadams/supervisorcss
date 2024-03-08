@@ -6,3 +6,8 @@
 i.delete-button {
     color: blue
 }
+
+
+button#delete-button { 
+    display: none; 
+} 
