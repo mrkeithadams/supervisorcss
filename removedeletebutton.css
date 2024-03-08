@@ -3,6 +3,6 @@
 .delete-button {display: none;}
 
 
-.f9-widget-grid .callbacks-action-grid-cell-container i.delete-button, .f9-widget-grid .skill-voicemails-action-grid-cell-container i.delete-button, .f9-widget-grid .voicemails-action-grid-cell-container i.delete-button {
+i.delete-button {
     color: blue
 }
