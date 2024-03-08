@@ -1,3 +1,9 @@
-fa-trash-o { 
-    display: none; 
+[role=button] {
+  background: rgba(48, 96, 144, 0.2);
+}
+div,
+span {
+  padding: 5px;
+  margin: 5px;
+  display: inline-block;
 }
